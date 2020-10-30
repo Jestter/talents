@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: Talents
+## Author: Jestter
+## Version: 1.0.0
+## SavedVariablesPerCharacter: TalentsData
+## Notes: Console commands to save talents profiles
+
+Talents.lua
