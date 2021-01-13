@@ -1,3 +1,7 @@
+`v1.0.1` | __2020-10-29__
+
+    - Update for shadowlands (torghast and some texts)
+
 `v1.0.0` | __2020-10-29__
 
     - Release with minimum functionality
