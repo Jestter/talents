@@ -1,4 +1,4 @@
-`v1.0.1` | __2020-10-29__
+`v1.0.1` | __2021-01-13__
 
     - Update for shadowlands (torghast and some texts)
 
