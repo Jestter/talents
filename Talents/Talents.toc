@@ -1,7 +1,7 @@
 ## Interface: 90002
 ## Title: Talents
 ## Author: Jestter
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariablesPerCharacter: TalentsData
 ## Notes: Console commands to save talents profiles
 

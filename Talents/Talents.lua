@@ -1,6 +1,6 @@
 local MAX_TALENT_TIERS=7
 local MAX_TALENT_COLUMNS=3
-local CHANGE_SPELL_IDS = {227041, 256231, 226241, 256229}
+local CHANGE_SPELL_IDS = {227041, 256231, 226241, 256229, 338907}
 
 local frame = CreateFrame("FRAME"); -- Need a frame to respond to events
 frame:RegisterEvent("ADDON_LOADED"); -- Fired when saved variables are loaded
@@ -84,7 +84,7 @@ end
 local function LoadTalents(profile)
 	CheckFirstUse()
 	if not CanUse() then
-		Print("... |cffFF0000Failed|r. You need to be in a |cff03C6FCrested XP area|r or use a |cff00FF00Tome of the Tranquil Mind|r.")
+		Print("... |cffFF0000Failed|r. You need to be in a |cff03C6FCrested XP area|r or use a |cff00FF00Tome of the Still Mind|r(or similar).")
 		return
 	end
 	local currentSpec = GetSpecialization()
